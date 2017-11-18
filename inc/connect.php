@@ -1,6 +1,6 @@
 <?php
 error_reporting (E_ALL ^ E_DEPRECATED);
- $host = "192.168.1.13"; //host name
+ $host = ""; //host name
  $port ="3306";
  $username ="cron"; //Mysql username
  $password="!!p00dtr1ff911"; //mysql password
